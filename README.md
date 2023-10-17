@@ -1,7 +1,6 @@
 <h1 align="center">Oie 🤠👍 eu sou David Santana</h1>
 <h3 align="center">Analista de sistemas / Estudante de programação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsantanaks&label=Profile%20views&color=0e75b6&style=flat" alt="davidsantanaks" /> </p>
 
 - 🔭 Atualmente trabalho como **Analista de sistema**
 
