@@ -4,11 +4,9 @@
 
 - 🔭 Atualmente trabalho como **Analista de sistema**
 
-- 👨‍💻 Atuamente estou estudando **JAVA, SPRING BOOT, POSTGRESQL, MYSQL**
+- 👨‍💻 Atuamente estou estudando **BACK-END e REST API**
 
-- 👨‍🔬 Meu [projeto](https://github.com/DavidSantanaks/Sistema-ticket-suporte)
-
-- 💬 Me pergunte sobre **JAVA**
+- 💬 Me pergunte sobre **BACK-END**
 
 - 📫 E-mail para contato: **davidfjobs@gmail.com**
 
