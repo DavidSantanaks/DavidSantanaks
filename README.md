@@ -2,13 +2,11 @@
 <h3 align="center">Analista de sistemas / Estudante de programação</h3>
 
 
-- 🔭 Atualmente trabalho como **Analista de sistema**
+- 🔭 Atualmente trabalho como **Desenvolvedor java trainee**
 
 - 👨‍💻 Atuamente estou estudando **BACK-END e REST API**
 
 - 💬 Me pergunte sobre **BACK-END**
-
-- 📫 E-mail para contato: **davidfjobs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
