@@ -2,7 +2,7 @@
 <h3 align="center">Analista de sistemas / Estudante de programação</h3>
 
 
-- 🔭 Atualmente trabalho como **Desenvolvedor java trainee**
+- 🔭 Atualmente trabalho como **Desenvolvedor java junior**
 
 - 👨‍💻 Atuamente estou estudando **BACK-END e REST API**
 
