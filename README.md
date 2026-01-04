@@ -1,5 +1,5 @@
 <h1 align="center">Oie 🤠👍 eu sou David Santana</h1>
-<h3 align="center">Analista de sistemas / Estudante de programação</h3>
+<h3 align="center">Desenvolvedor back-end / Estudante de programação</h3>
 
 
 - 🔭 Atualmente trabalho como **Desenvolvedor java junior**
